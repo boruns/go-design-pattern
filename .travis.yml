@@ -13,6 +13,6 @@ env:
   - GO111MODULE=on # 启用 go mod 
 
 install:
-  - go mod tidy
+  - go get -v
 
-script: go test -v
+script: go test -v ./...

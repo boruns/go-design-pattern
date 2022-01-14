@@ -13,5 +13,5 @@ env:
 
 
 script: 
-  - go get -v
+  - go mod tidy
   - go test -v ./...

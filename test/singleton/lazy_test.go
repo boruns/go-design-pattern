@@ -3,7 +3,7 @@ package singleton
 import (
 	"testing"
 
-	"github.com/boruns/go-design/singleton/lazy"
+	"github.com/boruns/go-design-pattern/singleton/lazy"
 	"github.com/stretchr/testify/assert"
 )
 

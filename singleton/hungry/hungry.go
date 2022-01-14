@@ -2,7 +2,7 @@
 package hungry
 
 import (
-	"github.com/boruns/go-design/singleton"
+	"github.com/boruns/go-design-pattern/singleton"
 )
 
 var hungrySingleton *singleton.Singleton

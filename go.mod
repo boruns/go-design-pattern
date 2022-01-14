@@ -1,4 +1,4 @@
-module github.com/boruns/go-design
+module github.com/boruns/go-design-pattern
 
 go 1.16
 

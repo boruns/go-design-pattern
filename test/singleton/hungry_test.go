@@ -3,7 +3,7 @@ package singleton
 import (
 	"testing"
 
-	"github.com/boruns/go-design/singleton/hungry"
+	"github.com/boruns/go-design-pattern/singleton/hungry"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ package lazy
 import (
 	"sync"
 
-	"github.com/boruns/go-design/singleton"
+	"github.com/boruns/go-design-pattern/singleton"
 )
 
 var (

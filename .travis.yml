@@ -1,0 +1,18 @@
+language: go # 代码运行所需的环境平台
+
+go:  #需要测试的版本
+  - 1.13.x
+  - 1.14.x
+  - 1.15.x
+  - 1.16.x
+
+dist: trusty   # 系统版本
+sudo: false  # 是否使用 sudo 模式
+
+env: 
+  - GO111MODULE=on # 启用 go mod 
+
+install:
+  - go mod tidy
+
+script: go test -v

@@ -21,3 +21,5 @@
 [装饰器模式(decorator design pattern)](./decorator)
 
 [适配器模式(adapter design pattern)](./adapter)
+
+[门面模式(facade design pattern)](./facade)

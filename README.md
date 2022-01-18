@@ -4,4 +4,13 @@
 
 ## 创建型
 
-[单例模式(singleton)](./singleton)
+[单例模式(singleton design pattern)](./singleton)
+[工厂模式(factory design pattern)](./factoroy)
+[建造者模式(builder design pattern)](./builder)
+[原型模式(prototype)](./prototype)
+
+## 结构型
+
+[代理模式(proxy design pattern)](./proxy)
+[桥接模式(brigde design pattern)](./brigde)
+[装饰器模式(decorator design pattern)](./decorator)

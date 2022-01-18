@@ -16,6 +16,6 @@
 
 [代理模式(proxy design pattern)](./proxy)
 
-[桥接模式(brigde design pattern)](./brigde)
+[桥接模式(bridge design pattern)](./bridge)
 
 [装饰器模式(decorator design pattern)](./decorator)

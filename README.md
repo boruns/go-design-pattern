@@ -6,7 +6,7 @@
 
 [单例模式(singleton design pattern)](./singleton)
 
-[工厂模式(factory design pattern)](./factoroy)
+[工厂模式(factory design pattern)](./factory)
 
 [建造者模式(builder design pattern)](./builder)
 
@@ -25,3 +25,5 @@
 [门面模式(facade design pattern)](./facade)
 
 [组合模式(compose design pattern)](./compose)
+
+[享元(flyweight design pattern)](./flyweight)

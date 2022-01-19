@@ -23,3 +23,5 @@
 [适配器模式(adapter design pattern)](./adapter)
 
 [门面模式(facade design pattern)](./facade)
+
+[组合模式(compose design pattern)](./compose)

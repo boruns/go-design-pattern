@@ -27,3 +27,5 @@
 [组合模式(compose design pattern)](./compose)
 
 [享元(flyweight design pattern)](./flyweight)
+
+[观察者模式(observer design pattern)](./observer)

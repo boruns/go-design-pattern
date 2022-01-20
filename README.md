@@ -29,3 +29,5 @@
 [享元(flyweight design pattern)](./flyweight)
 
 [观察者模式(observer design pattern)](./observer)
+
+[模板模式(template design pattern)](./template)
